@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/pramit mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramit mondal" height="30" width="40" /></a>
 <a href="https://fb.com/pramit mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pramit mondal" height="30" width="40" /></a>
 <a href="https://instagram.com/pramitmondal76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pramitmondal76" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pramit mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pramit mondal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mondalpramit76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mondalpramit76" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/g37jnNkJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/g37jnNkJ" height="30" width="40" /></a>
 </p>
 
