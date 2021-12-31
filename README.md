@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRAMIT MONDAL</h1>
-<h3 align="center">I am an undergraduate student and pursuing my B.Tech. in Computer Science and Engineering. I am passionate about Development and love to learn new things. Currently I am learning Web Development and exploring various fields.</h3>
+<h3 align="center">I am an undergraduate student and pursuing my B.Tech. in Computer Science and Engineering. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramit-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="pramit-mondal" /> </p>
 
